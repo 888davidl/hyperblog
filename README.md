@@ -9,7 +9,7 @@ Un blog increíble para el curso de Git y GitHub de platzi
 
 <P><b>Tengo experiencia en:</b></P>
 - HTML
-- Css
+- CSS
 - JavaScript
 - PHP
 - SQL
@@ -18,7 +18,7 @@ Un blog increíble para el curso de Git y GitHub de platzi
 
 
 Me gustaría que conocieras mi web [Nuevoproducto-vip.com](https://nuevoproducto-vip.com/ "Nuevoproducto-vip.com"), espero que te guste y recibo cualquier consejo 😉
-Si me quieres apoyar en instagran pincha aqui 👉 [Nuevo producto vip](https://www.instagram.com/nuevo.producto_vip/ "Nuevo producto vip"), con este instagram practico el Marketing, te agradeceria todo el apoyo 💚
+Si me quieres apoyar en instagram pincha aqui 👉 [Nuevo producto vip](https://www.instagram.com/nuevo.producto_vip/ "Nuevo producto vip"), con este instagram practico el Marketing, te agradeceria todo el apoyo 💚
 <hr>
 <p>Me puedes contactar al email <a href="mailto:dlgstudy888@gmail.com">DlgStudy</a></p>
 <hr>
